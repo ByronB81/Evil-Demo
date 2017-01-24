@@ -1,0 +1,16 @@
+#low {
+  padding-bottom: 2em;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: khaki;
+}
+
+.boss {
+  font-weight: bold;
+}
+
+body {
+  background-color: brown;
+}
